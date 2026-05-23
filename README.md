@@ -168,3 +168,7 @@ The testbench instantiates a golden integer model and compares DUT output at eve
 2. Viswanathan & Parthipan (2012) — *Efficient VLSI Architecture for FIR Filter using CSHM*
 3. Sivanantham et al. (2013) — *Low Power Floating Point CSHM for Signal Processing*
 4. Weste & Harris — *CMOS VLSI Design: A Circuits and Systems Perspective*
+
+
+
+##  Full project report available on request.
