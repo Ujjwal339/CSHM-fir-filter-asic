@@ -129,7 +129,11 @@ The testbench instantiates a golden integer model and compares DUT output at eve
  |
 | Pre/Post CTS timing report | <img width="790" height="842" alt="image" src="https://github.com/user-attachments/assets/4f53d2cf-5fc5-4fdd-b348-31aaf661abd9" />
  |
-| Simulation waveform | <img width="1920" height="1080" alt="Screenshot from 2026-04-09 06-32-28" src="https://github.com/user-attachments/assets/797c448c-18a7-48c6-8941-f911e26e1800" />
+| Simulation waveform | <img width="1920" height="1080" alt="Screenshot from 2026-04-09 06-32-04" src="https://github.com/user-attachments/assets/61dbd663-ce9b-40a6-8443-eb98018e437c" />  <img width="1920" height="1080" alt="Screenshot from 2026-04-09 06-32-13" src="https://github.com/user-attachments/assets/ef07f088-f655-4f76-a7c7-6fa40317fa00" />  <img width="1920" height="1080" alt="Screenshot from 2026-04-09 06-32-19" src="https://github.com/user-attachments/assets/20f02a47-1f49-474a-ae14-74760938b587" />  <img width="1920" height="1080" alt="Screenshot from 2026-04-09 06-32-24" src="https://github.com/user-attachments/assets/73af7c0b-6a0b-42f1-b7c5-4824302df7e6" />  <img width="1920" height="1080" alt="Screenshot from 2026-04-09 06-32-28" src="https://github.com/user-attachments/assets/a92be3c7-2c90-40fb-8804-bc58d021c099" />
+
+
+
+
  |
 
 ---
