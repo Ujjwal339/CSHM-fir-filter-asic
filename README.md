@@ -123,14 +123,14 @@ The testbench instantiates a golden integer model and compares DUT output at eve
 
 ## Screenshots
 
-> *(Add these from your report — screenshots already exist)*
-
-| What to Add | Where to Get It |
-|---|---|
-| Synthesis schematic | Page 19 of report (Cadence Genus view) |
-| Post-CTS layout | Page 19 of report (Cadence Innovus layout) |
-| Pre/Post CTS timing report | Page 20 of report |
-| Simulation waveform | Pages 16–17 of report (SimVision) |
+| Synthesis schematic |<img width="1700" height="901" alt="Screenshot 2026-05-23 180445" src="https://github.com/user-attachments/assets/78ef0067-97bc-4acb-a741-f8a5d547c0b3" />
+ |
+| Post-CTS layout | <img width="1709" height="966" alt="Screenshot 2026-05-23 180909" src="https://github.com/user-attachments/assets/c01eaac8-d0d9-4b07-baa0-ade6276c1738" />
+ |
+| Pre/Post CTS timing report | <img width="790" height="842" alt="image" src="https://github.com/user-attachments/assets/4f53d2cf-5fc5-4fdd-b348-31aaf661abd9" />
+ |
+| Simulation waveform | <img width="1920" height="1080" alt="Screenshot from 2026-04-09 06-32-28" src="https://github.com/user-attachments/assets/797c448c-18a7-48c6-8941-f911e26e1800" />
+ |
 
 ---
 
